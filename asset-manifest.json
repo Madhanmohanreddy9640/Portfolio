@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.fe4a5dbc.css",
+    "main.js": "/Portfolio/static/js/main.1ae4eb46.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/boxicons.svg": "/Portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/project_frentpage.png": "/Portfolio/static/media/project_frentpage.49b4f79af8d6b64f08c3.png",
+    "static/media/boxicons.eot": "/Portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.e5aaaaf31fe2cbbe9377.png",
+    "static/media/boxicons.woff": "/Portfolio/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/Portfolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/food_store.png": "/Portfolio/static/media/food_store.14ba252249a005559fc3.png",
+    "static/media/boxicons.woff2": "/Portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/madhu.jpg": "/Portfolio/static/media/madhu.afc01df89b49dd8cc55f.jpg",
+    "static/media/thopstech.png": "/Portfolio/static/media/thopstech.af178e42d391c93e5edb.png",
+    "static/media/folio4.jpg": "/Portfolio/static/media/folio4.2d128087424655679b6c.jpg",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.fe4a5dbc.css.map": "/Portfolio/static/css/main.fe4a5dbc.css.map",
+    "main.1ae4eb46.js.map": "/Portfolio/static/js/main.1ae4eb46.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4a5dbc.css",
+    "static/js/main.1ae4eb46.js"
+  ]
+}
