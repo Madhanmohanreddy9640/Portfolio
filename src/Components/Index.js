@@ -7,6 +7,7 @@ import portfolio from '../IMAGES/portfolio.png'
 import project_frentpage from '../IMAGES/project_frentpage.png'
 import thopstech from '../IMAGES/thopstech.png'
 import food_store from '../IMAGES/food_store.png'
+import Madhan42002 from '../PDF/Madhan42002.pdf'
 function Portfolio() {
   return (
     <>
@@ -51,8 +52,8 @@ function Portfolio() {
             </a>
           </div>
           <a
-            href="C:\\Users\\shrey\\Downloads\\B.-Software-Engineer.docx"
-            className="btn"
+            href={Madhan42002}
+            className="btn" target="blank"
           >
             Download CV
           </a>
@@ -142,7 +143,7 @@ function Portfolio() {
                 myself. Showcase my projects, my social media handles, my
                 experience on the website.
               </p>
-              <a href="#">
+              <a href="https://madhanmohanreddy9640.github.io/Portfolio/" target="blank">
                 <i className="bx bx-link-external"></i>
               </a>
             </div>
@@ -162,17 +163,10 @@ function Portfolio() {
             </div>
           </div>
           <div className="portfolio-box">
-            <img
-              src="myproject/image/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg"
-              alt=""
-            />
+          <img src={food_store} alt="Actionable Training" className="madhu-img"  width="400px" height="350px" redious="100%"/>
             <div className="portfolio-layer">
-              <h4>Iris flower detection</h4>
-              <p>
-                In this project I try detect the iris flower type by using
-                machine learning prediction model. And deployed in streamlit
-                python.
-              </p>
+              <h4>Fresh fruits Booking</h4>
+              <p>In this project we can book Fresh fruits by using python.</p>
               <a href="#">
                 <i className="bx bx-link-external"></i>
               </a>
@@ -188,7 +182,7 @@ function Portfolio() {
               </a>
             </div>
           </div>
-          <div className="portfolio-box">
+          {/* <div className="portfolio-box">
           <img src={food_store} alt="Actionable Training" className="madhu-img"  width="400px" height="350px" redious="100%"/>
             <div className="portfolio-layer">
               <h4>Fresh fruits Booking</h4>
@@ -197,12 +191,26 @@ function Portfolio() {
                 <i className="bx bx-link-external"></i>
               </a>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
       <section className="contact" id="contact">
         <h2 className="heading">
           Contact<span>ME!</span>
+          <div className="social-media">
+            <a href="https://github.com/Madhanmohanreddy9640/" target="blank">
+              <i className="bx bxl-github"></i>
+            </a>
+            <a href="mailto:madhan964039@gmail.com" target="blank">
+              <i className="bx bxs-envelope"></i>
+            </a>
+            <a href="https://www.instagram.com/madhan__reddy4_19189/" target="blank">
+              <i className="bx bxl-instagram"></i>
+            </a>
+            <a href="http://www.linkedin.com/in/%20madhan-mohan-reddy-573b6b341" target="blank">
+              <i className="bx bxl-linkedin-square"></i>
+            </a>
+          </div>
         </h2>
         <form
           action="#"
